@@ -1,4 +1,4 @@
-# urs
+# <img src="urs_bear.png" alt="" width="36" valign="bottom" /> urs
 
 *User Resource Suite — or Utterly Random Stuff, depending on the day.*
 
