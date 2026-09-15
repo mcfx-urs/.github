@@ -12,13 +12,12 @@ watch companion, and a self-hosted backend.
 
 | Repo | What it is |
 |---|---|
-| [urs-android](https://github.com/3lefeint/urs-android) | Native Android app (Kotlin/Compose) — the primary, offline-capable client |
-| [urs-web](https://github.com/3lefeint/urs-web) | Browser companion (React/TypeScript) for tasks awkward on a phone, home-network only |
-| [urs-zepp](https://github.com/3lefeint/urs-zepp) | Zepp OS mini-app for Amazfit watches — quick logging actions from the wrist |
-| [urs-backend](https://github.com/3lefeint/urs-backend) | Issue tracker for the backend — the Go/MariaDB REST API itself is self-hosted, not on GitHub |
+| [urs-android](https://github.com/mcfx-urs/urs-android) | Native Android app (Kotlin/Compose) — the primary, offline-capable client |
+| [urs-web](https://github.com/mcfx-urs/urs-web) | Browser companion (React/TypeScript) for tasks awkward on a phone, home-network only |
+| [urs-zepp](https://github.com/mcfx-urs/urs-zepp) | Zepp OS mini-app for Amazfit watches — quick logging actions from the wrist |
+| [urs-backend](https://github.com/mcfx-urs/urs-backend) | Issue tracker for the backend — the Go/MariaDB REST API itself is self-hosted, not on GitHub |
 
-*Links point at the repos' current home; they'll move here once each
-one is transferred into this organization.*
+*All four repos were transferred into this organization on 2026-09-15.*
 
 ## Architecture
 
